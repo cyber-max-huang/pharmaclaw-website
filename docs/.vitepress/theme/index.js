@@ -1,11 +1,9 @@
-import { h } from 'vue'
-import Home from './components/Home.vue'
+import DefaultTheme from 'vitepress/theme'
+import './custom.css'
 
 export default {
+  extends: DefaultTheme,
   enhanceApp({ app }) {
-    app.component('Home', Home)
-  },
-  async render() {
-    return h(Home)
+    // 全局组件注册
   }
 }
