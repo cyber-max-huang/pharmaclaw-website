@@ -7,8 +7,8 @@ hero:
   text: 为制药人装备数字战甲
   tagline: 制药智能化的终极武装
   image:
-    src: /picture/2-mech-bio.png
-    alt: PharmaClaw 生物科技机甲
+    src: /resource/1-mech-lobster.png
+    alt: PharmaClaw 战甲龙虾
   actions:
     - text: 了解更多
       link: /blog/
@@ -222,6 +222,10 @@ hero:
 ---
 
 ## 关于 PharmaClaw
+
+<div align="center">
+  <img src="/resource/2-logo.png" alt="PharmaClaw Logo" style="width: 200px; margin-bottom: 2rem;" />
+</div>
 
 PharmaClaw — 来自博普智库的制药行业智能中枢
 
