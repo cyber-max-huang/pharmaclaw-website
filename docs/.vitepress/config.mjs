@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { resolve } from 'path'
 
 export default defineConfig({
   title: "PharmaClaw",
@@ -10,6 +11,10 @@ export default defineConfig({
     ['link', { href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700&display=swap', rel: 'stylesheet' }]
   ],
   appearance: 'dark',
+  srcDir: './docs',
+  alias: {
+    '@picture': resolve(__dirname, '../Desktop/picture')
+  },
   themeConfig: {
     siteTitle: 'PharmaClaw',
     nav: [

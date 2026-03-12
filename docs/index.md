@@ -7,7 +7,7 @@ hero:
   text: 为制药人装备数字战甲
   tagline: 制药智能化的终极武装
   image:
-    src: /resource/1-mech-lobster.png
+    src: /picture/1-mech-lobster.png
     alt: PharmaClaw 战甲龙虾
   actions:
     - text: 了解更多
