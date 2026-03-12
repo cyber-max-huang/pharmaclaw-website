@@ -223,8 +223,8 @@ hero:
 
 ## 关于 PharmaClaw
 
-<div align="center">
-  <img src="/resource/2-logo.png" alt="PharmaClaw Logo" style="width: 200px; margin-bottom: 2rem;" />
+<div align="center" style="margin: 3rem 0;">
+  <img src="/resource/2-logo.png" alt="PharmaClaw Logo" style="width: 280px; margin-bottom: 1.5rem; filter: drop-shadow(0 0 20px rgba(0, 245, 212, 0.3));" />
 </div>
 
 PharmaClaw — 来自博普智库的制药行业智能中枢
