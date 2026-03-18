@@ -12,14 +12,14 @@ export default defineConfig({
   ],
   appearance: 'dark',
   themeConfig: {
-    siteTitle: '东富龙 PharmaClaw',
+    siteTitle: 'PharmaClaw',
     nav: [
       { text: '首页', link: '/' }
     ],
     socialLinks: [],
     footer: {
-      message: '东富龙制药智能中枢',
-      copyright: '© 2026 东富龙 PharmaClaw. All rights reserved.'
+      message: '来自博普智库',
+      copyright: '© 2026 PharmaClaw. All rights reserved.'
     }
   }
 })
