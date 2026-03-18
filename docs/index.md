@@ -1,9 +1,9 @@
 ---
 layout: home
-title: PharmaClaw
+title: 东富龙 PharmaClaw
 titleTemplate: 制药智能化的终极武装
 hero:
-  name: PharmaClaw
+  name: 东富龙 PharmaClaw
   text: 为制药人装备数字战甲
   tagline: 制药智能化的终极武装
   image:
