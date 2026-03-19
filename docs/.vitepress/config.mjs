@@ -12,7 +12,9 @@ export default defineConfig({
   ],
   appearance: 'dark',
   themeConfig: {
-    siteTitle: 'PharmaClaw',
+    siteTitle: '东富龙',
+    logo: '/resource/2-logo.png',
+    logoText: '东福龙',
     nav: [
       { text: '首页', link: '/' }
     ],
