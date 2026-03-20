@@ -1,14 +1,14 @@
 ---
 layout: home
-title: PharmaClaw
+title: 金老师
 titleTemplate: 制药智能化的终极武装
 hero:
-  name: PharmaClaw
+  name: 金老师
   text: 为制药人装备数字战甲
   tagline: 制药智能化的终极武装
   image:
     src: /resource/1-mech-lobster.png
-    alt: PharmaClaw 战甲龙虾
+    alt: 金老师 战甲龙虾
   actions:
     - text: 了解更多
       link: /blog/
@@ -221,13 +221,13 @@ hero:
 
 ---
 
-## 关于 PharmaClaw
+## 关于 金老师
 
 <div align="center" style="margin: 3rem 0;">
-  <img src="/resource/2-logo.png" alt="PharmaClaw Logo" style="width: 280px; margin-bottom: 1.5rem; filter: drop-shadow(0 0 20px rgba(0, 245, 212, 0.3));" />
+  <img src="/resource/2-logo.png" alt="金老师 Logo" style="width: 280px; margin-bottom: 1.5rem; filter: drop-shadow(0 0 20px rgba(0, 245, 212, 0.3));" />
 </div>
 
-PharmaClaw — 来自博普智库的制药行业智能中枢
+金老师 — 来自博普智库的制药行业智能中枢
 
 **愿景**：让智能深入每一个制药环节、贯穿每一条业务链
 
