@@ -12,9 +12,9 @@ export default defineConfig({
   ],
   appearance: 'dark',
   themeConfig: {
-    siteTitle: 'PharmaClaw',
+    siteTitle: '博普智库 AI 集训营',
     logo: '/resource/2-logo.png',
-    logoText: 'PharmaClaw',
+    logoText: '博普智库 AI 集训营',
     nav: [
       { text: '首页', link: '/' }
     ],
