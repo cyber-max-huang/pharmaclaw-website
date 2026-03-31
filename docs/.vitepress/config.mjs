@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/pharmaclaw-website/',
-  title: "金老师",
+  title: "PharmaClaw",
   description: "制药智能化的终极武装 - 来自博普智库的制药行业智能中枢",
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -12,7 +12,9 @@ export default defineConfig({
   ],
   appearance: 'dark',
   themeConfig: {
-    siteTitle: '金老师',
+    siteTitle: 'PharmaClaw',
+    logo: '/resource/2-logo.png',
+    logoText: 'PharmaClaw',
     nav: [
       { text: '首页', link: '/' }
     ],
